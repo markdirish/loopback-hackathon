@@ -131,7 +131,7 @@ When you navigate in your browser to that endpoint (`/ping` is a `GET` endpoint 
 
 Neat! Except that's not really that flashy, since it is just a bunch of information about my browswer and when I pinged the server. It also is formatted in a way that a computer would be able to parse it, not something interesting for our eyes.
 
-However, when we started our server, we also started the API explorer that allows us to visually poke around and see (and test) our API endpoints. To go there, simply navigate in your browser to `oursystem:3XXX/explorer`. When you get there, you should see a neat little REST API visualizer (called SwaggerUI) that allows you to visually see everything LoopBack has running.
+However, when we started our server, we also started the API explorer that allows us to visually poke around and see (and test) our API endpoints. To go there, simply navigate in your browser to `oursystem:43XXX/explorer`. When you get there, you should see a neat little REST API visualizer (called SwaggerUI) that allows you to visually see everything LoopBack has running.
 
 ![LoopBack SwaggerUI API Explorer](assets/d.explorer.png)
 
